@@ -1,4 +1,4 @@
-<h1>EC2 Instance Storage</h1>
+<h1>EC2 - Instance Storage</h1>
 <p>EBS : Elastic Block Storage, network drive bound to an AZ</p>
 <p>Many EBS : 1 EC2 relationship</p>
 <p>Delete on termination:</p>
@@ -45,16 +45,14 @@
 
 | EBS  | EFS  |
 | ---  | ---  |
-| Not shared | Shared
-| Copy | In-sync
-|
-
+| Not shared | Shared |
+| Copy | In-sync |
 
 <h2>Shared Responsibility Model for EC2</h2>
 
 | CUSTOMER  | AWS  |
 | --------  | ---  |
-| Back-up/Snapshot settings | Infrastructure
-| Data encryption setup | Data replication
-| Data on drives | Faulty Hardware Replacement
-| EC2 Instance Store Risk Assessment | Ensure Amazon's employees can't access your data
+| Back-up/Snapshot settings | Infrastructure |
+| Data encryption setup | Data replication |
+| Data on drives | Faulty Hardware Replacement |
+| EC2 Instance Store Risk Assessment | Ensure Amazon's employees can't access your data |

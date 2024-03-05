@@ -1,11 +1,11 @@
-<h1>EC2: Elastic Compute Cloud</h1>
+<h1>EC2 - Elastic Compute Cloud</h1>
 
 <h2>Amazon EC2 - Elastic Compute Cloud - IaaS</h2>
 <ul>
     <li>Virtual Machines (EC2)</li>
     <li>Virtual Drives (EBS)</li>
     <li>Load Balancer (ELB)</li>
-    <li>Auto Scaling (ASG)</li>    
+    <li>Auto Scaling (ASG)</li>
 </ul>
 <br>
 
@@ -26,12 +26,12 @@
 
 |   |   |
 | --------  | ---  |
-| SSH | Port 22 (Linux)
-| FTP | Port 21
-| SFTP | Port 22
-| HTTP | Port 80
-| HTTPS | Port 443
-| RDP | Port 3389 (Windows)
+| SSH | Port 22 (Linux) |
+| FTP | Port 21 |
+| SFTP | Port 22 |
+| HTTP | Port 80 |
+| HTTPS | Port 443 |
+| RDP | Port 3389 (Windows) |
 
 <h3>EC2 Spot Instances</h3>
 <ul>
@@ -53,7 +53,7 @@
 
 | CUSTOMER  | AWS  |
 | --------  | ---  |
-| Security Groups | Infrastructure
-| OS and Software Maintenance | Physical Hosts Isolation
-| IAM | Faulty Hardware Replacement
-| Data Security | Compliance Validation
+| Security Groups | Infrastructure |
+| OS and Software Maintenance | Physical Hosts Isolation |
+| IAM | Faulty Hardware Replacement |
+| Data Security | Compliance Validation |

@@ -1,15 +1,14 @@
-<h1>IAM: Identity and Access Management</h1>
+<h1>IAM - Identity and Access Management</h1>
 <p><strong>Global service</strong> - Groups can only contain users - M:M relationship</br>
 <strong>Always apply the <em>principle of least privilege</em></strong></p>
 </br>
-
 
 <h3>IAM Policy Structure</h3>
 Version</br>
 Id</br>
 Statement :
 
-```
+```json
 [{
     Sid: optional identifier
     Effect: allow/deny access
@@ -20,6 +19,7 @@ Statement :
 }]
 
 ```
+
 </br>
 
 <h3>Password Policy:</h3>
@@ -35,7 +35,6 @@ Statement :
     </li>
 </ul>
 
-
 <h3>Access to AWS</h3>
 <ol>
     <li>AWS Management Console: password + MFA</li>
@@ -45,11 +44,9 @@ Statement :
 *Last 2 require access keys
 </br>
 
-
 <h3>IAM Roles</h3>
 To perform actions on behalf of a user
 </br>
-
 
 <h3>IAM Security Tools</h3>
 <ul>
@@ -76,7 +73,7 @@ To perform actions on behalf of a user
 
 | CUSTOMER  | AWS  |
 | --------  | ---  |
-| User, groups, roles, policy management | Infrastructure, configuration and vulnerability analysis
-| MFA | Compliance validation
-| IAM use of tools
-| Analyze access patterns and permissions review
+| User, groups, roles, policy management | Infrastructure, configuration and vulnerability analysis |
+| MFA | Compliance validation |
+| IAM use of tools | |
+| Analyze access patterns and permissions review | |
