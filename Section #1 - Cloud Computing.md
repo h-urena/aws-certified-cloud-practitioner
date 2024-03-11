@@ -30,8 +30,8 @@
 
 | CUSTOMER  | AWS  |
 | --------  | ---  |
-| Security <strong>IN</strong> the cloud | Security <strong>OF</strong> the cloud
+| Security <strong>IN</strong> the cloud | Security <strong>OF</strong> the cloud |
 
 ![image_def]
 
-[image_def]: /images/shared_responsibility_model.png "AWS - Shared Responsibility Model"
+[image_def]: /images/shared-responsibility-model.png "AWS - Shared Responsibility Model"
