@@ -5,7 +5,7 @@
     <li>Platform as a Service (PaaS): e.g. Elastic Beanstalk</li>
     <li>Software as a Service (SaaS): e.g. Rekognition</li>
 </ul>
-</br>
+<br>
 
 <h2>Pricing</h2>
 <ul>
@@ -24,7 +24,8 @@
 </ul>
 
 <p><em>AZ</em> : availability zones, <em>PoP</em> : point of presence</p>
-</br>
+<p><em>Availability Zone</em> : 1 or more discrete ultra modern data centers</p>
+<p><em>Region</em> : 3 or more availability zones</p>
 
 <h2>Shared Responsibility Model</h2>
 
