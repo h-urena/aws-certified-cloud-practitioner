@@ -10,7 +10,7 @@
 <p>Launch Docker container serverless on AWS</p>
 
 <h3>Lambda</h3>
-<p>Event-driven serverless functions un a reactive way</p>
+<p>Event-driven serverless functions in a reactive way</p>
 <p>Pricing: Based on calls and execution duration</p>
 
 <h3>API Gateway</h3>

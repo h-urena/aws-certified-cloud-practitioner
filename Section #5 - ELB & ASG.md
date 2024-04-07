@@ -1,7 +1,7 @@
 <h1>ELB & ASG - Elastic Load Balancing & Auto Scaling Groups</h1>
 
 <h3>Elastic Load Balancing</h3>
-<p><b>Vertical Scalability (scale up/own):</b> increase in the size of an instance</p>
+<p><b>Vertical Scalability (scale up/down):</b> increase in the size of an instance</p>
 <p><b>Horizontal Scalability(scale out/in):</b> increase in the number of instances. Implies distributed systems</p>
 <p><b>High availability:</b> it  means running in at least two AZ</p>
 <p><b>Scalability:</b> ability to scale up and out</p>
@@ -83,7 +83,7 @@
 <h3>Auto Scaling Group</h3>
 <ul>
     <li>Scales out/in, to run at optimal capacity given a current load</li>
-    <li>Ensures we have a minimun and maximus number of EC2 instances running</li>
+    <li>Ensures we have a minimun and maximum number of EC2 instances running</li>
     <li>Automatically registers new instances to a Load Balancer</li>
     <li>Recreates an EC2 instance if a previous one has been terminated</li>
 </ul>
@@ -96,7 +96,7 @@
 <p>Scaling policies:</p>
 <ul>
     <li>Dynamic--> e.g. SG CPU to stay at 50%</li>
-    <li>Scheduled: based on known ussage patterns (e.g. increase min capacity on Flash Sales)</li>
+    <li>Scheduled: based on known usage patterns (e.g. increase min capacity on Flash Sales)</li>
     <li>Predictive: continuously forecast load and schedule scaling actions ahead (e.g. cyclical)</li>
     <li>Target Tracking--> e.g. number of connections to EC2 instances = 100</li>
 </ul>

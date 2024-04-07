@@ -63,7 +63,7 @@ Statement :
 </ul>
 
 <h3>IAM Conditions</h3>
-<p>Specific set of conditions that can be applied for policies. Types:</p>
+<p>Specific set of conditions that can be applied to policies. Types:</p>
 <ul>
     <li>aws:SourceIp: restrict clients' ip addresses where an API call is being made from</li>
     <li>aws:RequestedRegion: prevent a region from receiving API calls</li>

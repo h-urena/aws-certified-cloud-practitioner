@@ -32,7 +32,7 @@
 <h3>Security Groups</h3>
 <ul>
     <li>Firewall at <b>ENI/EC2</b> instance level</li>
-    <li>One can set <b>allow/deny</b> rules</li>
+    <li>One can set <b>allow</b> rules</li>
     <li>Stateful (The server retains the session info)</li>
 </ul>
 

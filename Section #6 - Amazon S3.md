@@ -2,7 +2,7 @@
 
 <p><b>S3 buckets must have globally unique names</b></p>
 <p><b>They're global</b>, but created in a region</p>
-<p>Files are actually <b>objects</b>, which have a key, which are composed of their full path</p>
+<p>Files are actually <b>objects</b>, which have a key, which is composed of their full path</p>
 <p>Objects larger than 5GBs in size must be uploaded using the multi-part functionality</p>
 <p>Versioning is an optional setting provided as part of the service</p>
 
@@ -52,7 +52,7 @@
 </ul>
 <br>
 
-<h3>IAM Acess Analyzer</h3>
+<h3>IAM Access Analyzer</h3>
 <p>Ensures that only intended people have access to the S3 buckets</p>
 
 <h2>Shared Responsibility Model for S3</h2>
