@@ -14,7 +14,7 @@
 
 <h3>Lex and Connect</h3>
 <ul>
-    <li>Lex: Automated speech rekon </li>
+    <li>Lex: Automated speech rekon</li>
     <li>Connect: virtual contact center</li>
 </ul>
 
