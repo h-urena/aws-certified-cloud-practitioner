@@ -15,6 +15,8 @@ prior IT or cloud experience switching to a cloud career or for line-of-business
 
 This repository will be organized by the main domains of the AWS Cloud Practitioner exam:
 
+:page_facing_up: [Section #1: Cloud Computing](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%231%20-%20Cloud%20Computing.md#)
+
 - **Section #1: Cloud Computing**
 - **Section #2: IAM - Identity and Access Management**
 - **Section #3: EC2 - Elastic Compute Cloud**
