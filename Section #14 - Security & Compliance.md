@@ -1,4 +1,4 @@
-<h1>Cloud Monitoring</h1>
+<h1>Security & Compliance</h1>
 
 <p>Protection and mitigation against DDoS attacks</p>
 <ul>
