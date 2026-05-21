@@ -75,7 +75,7 @@ Statement :
 <h3>Permission Boundaries</h3>
 <ul>
     <li>Boundaries that can be set to a user or a role (not a group)</li>
-    <li>The take precedence over session permissions policies</li>
+    <li>They take precedence over session permissions policies</li>
 </ul>
 
 <h3>IAM Identity Center</h3>

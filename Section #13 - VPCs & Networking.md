@@ -18,12 +18,12 @@
 </ul>
 
 <h3>Bastion Hosts</h3>
-<p>EC2 instance residing in a public subnet, that allows to SHH into the EC2 instances living in a private subnet</p>
+<p>EC2 instance residing in a public subnet, that allows SSH into the EC2 instances living in a private subnet</p>
 
 <h3>NACL - Network Access Control List</h3>
 <ul>
     <li>Firewall at <b>subnet</b> level</li>
-    <li>One NACL per subnet, new subnets are assigned to the defatul NACL</li>
+    <li>One NACL per subnet, new subnets are assigned to the default NACL</li>
     <li>One can set <b>allow/deny</b> rules. The default inbound/outbound NACLs rules have traffic allowed</li>
     <li>First rule number match will drive the decision (e.g. 100 over 200)</li>
     <li>Stateless</li>

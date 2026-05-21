@@ -33,13 +33,13 @@
 <p>Provision, manage and deploy SSL/TLS certificates</p>
 
 <h3>Secrets Manager</h3>
-<p>Store and force rotation opf secrets in RDS</p>
+<p>Store and force rotation of secrets in RDS</p>
 
 <h3>AWS Artifact</h3>
 <p>Portal to access AWS compliance documentations and AWS agreements</p>
 
 <h3>GuardDuty</h3>
-<p>Provision, manage, and deploy SSL/TLS certificates</p>
+<p>Intelligent threat discovery service that uses ML to continuously monitor and protect your AWS account</p>
 
 <h3>Inspector</h3>
 <ul>

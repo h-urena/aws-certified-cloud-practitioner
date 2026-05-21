@@ -14,8 +14,8 @@
 <p>Why use a Load Balancer:</p>
 <ul>
     <li>Spread load across multiple downstream instances</li>
-    <li>Expose a single point of access (DNS) to you application</li>
-    <li>Seamlessly handle failures of the downstreamed instances</li>
+    <li>Expose a single point of access (DNS) to your application</li>
+    <li>Seamlessly handle failures of the downstream instances</li>
     <li>Regular health checks on one's instances</li>
     <li>Provide SSL termination (HTTPS) for one's websites</li>
     <li>Enforce stickiness with cookies</li>

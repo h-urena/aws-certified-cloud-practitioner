@@ -23,7 +23,7 @@ This repository will be organized by the main domains of the AWS Cloud Practitio
 - **[Section #6: Amazon S3](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%236%20-%20Amazon%20S3.md)**
 - **[Section #7: Databases](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%237%20-%20Databases%20%26%20Analytics.md)**
 - **[Section #8: ECS, Lambda, API Gateway, Batch & Lightsail](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%238%20-%20Other%20Compute%20Services.md)**
-- **[Section #9: Deployments & Insfrastructure](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%239%20-%20Deployments%20%26%20Infrastructure%20Management.md)**
+- **[Section #9: Deployments & Infrastructure](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%239%20-%20Deployments%20%26%20Infrastructure%20Management.md)**
 - **[Section #10: Global Infrastructure](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%2310%20-%20Global%20Infrastructure.md)**
 - **[Section #11: Cloud Integrations](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%2311%20-%20Cloud%20Integrations.md)**
 - **[Section #12: Cloud Monitoring](https://github.com/h-urena/aws-certified-cloud-practitioner/blob/main/Section%20%2312%20-%20Cloud%20Monitoring.md)**

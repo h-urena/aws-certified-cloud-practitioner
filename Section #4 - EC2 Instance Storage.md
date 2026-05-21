@@ -27,7 +27,7 @@
 
 <h3>EBS Encryption</h3>
 <p>It has minimal impact on latency</p>
-<p>One can encrypt a decrypted volume</p>
+<p>One can encrypt an unencrypted volume</p>
 
 <h3>EFS - Elastic File System</h3>
 <p>Managed NFS (Network File System), which can be mounted on up to 100 EC2s (Linux/Multi AZ)</p>

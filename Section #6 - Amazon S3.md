@@ -75,4 +75,4 @@
 </ul>
 <br>
 
-<p>S3 is <b>propietary</b>, one will need <b>AWS Storage Gateway</b> for a hybrid approach</p>
+<p>S3 is <b>proprietary</b>, one will need <b>AWS Storage Gateway</b> for a hybrid approach</p>
