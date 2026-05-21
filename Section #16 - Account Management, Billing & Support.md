@@ -95,7 +95,7 @@
 <p>Notifies when one is close to an established service quota</p>
 
 <h3>Trusted Advisor</h3>
-<p>High-level account assessments, gouped by 6 categories</p>
+<p>High-level account assessments, grouped by 6 categories</p>
 
 <h3>Support Plans Pricing</h3>
 <ul>

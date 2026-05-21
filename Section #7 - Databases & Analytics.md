@@ -10,7 +10,7 @@
 <p>Storage backed up by EBS</p>
 <p>Note: Can't SSH into an RDS instance</p>
 
-<h3>Aurora (propietary)</h3>
+<h3>Aurora (proprietary)</h3>
 <ul>
     <li>Supports PostgreSQL and MySQL</li>
     <li>Serverless function</li>

@@ -157,7 +157,7 @@
 <h4><b>AWS re:Post</b></h4>
 <ul>
     <li>AWS-managed Q&A forum service (alike Stack Overflow)</li>
-    <li>Not intended for time-sensitive, propietary help</li>
+    <li>Not intended for time-sensitive, proprietary help</li>
 </ul>
 
 <h4><b>AWS Managed Services</b></h4>
